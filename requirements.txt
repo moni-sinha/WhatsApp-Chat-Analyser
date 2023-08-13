@@ -1,0 +1,13 @@
+streamlit
+matplotlib
+plotly
+seaborn
+urlextract
+wordcloud
+pandas
+emoji
+
+
+# google-transliteration
+# googletrans==4.0.0rc1
+# langid
